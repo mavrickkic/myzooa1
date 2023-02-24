@@ -1,0 +1,58 @@
+#zoo {
+  background: url(zoo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.zooField {
+  font-size: 20px;
+}
+
+.title {
+  text-align: center;
+  margin-top: 200px;
+}
+
+.zooInfo {
+  background-color: white;
+}
+
+.animalInfo {
+  background-color: white;
+}
+
+#animals {
+  background-color: white;
+  font-size: 20px;
+}
+
+table {
+  border-collapse: collapse;
+  align-items: center;
+}
+
+tr:nth-child(even) {
+  background-color: Blue;
+}
+tr:nth-child(odd) {
+  background-color: cyan;
+}
+
+td {
+  color: orange;
+  border: 2px solid black;
+}
+
+th {
+  background-color: green;
+  color: white;
+  width: 120px;
+}
+
+.list {
+  display: none;
+}
+
+#submit {
+  background-color: white;
+}
